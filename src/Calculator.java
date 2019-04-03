@@ -5,4 +5,8 @@ public class Calculator {
         double SV = Double.parseDouble(args[1]);
         
     }
+    double Addition(double a,double b){
+        double result =a+b;
+        return result;
+    }
 }
